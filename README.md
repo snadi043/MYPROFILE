@@ -1,9 +1,15 @@
+![images](https://github.com/snadi043/MYPROFILE/assets/60456049/876dda45-6b2f-475b-b4ce-60fc765ec198)
+
 # Hello Y'll! 👋
 
-About Me
+About Me!
+
+
+
+
 
 Skills
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+Links
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
