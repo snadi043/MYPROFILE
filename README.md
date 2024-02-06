@@ -1,4 +1,4 @@
-![images](https://github.com/snadi043/MYPROFILE/assets/60456049/876dda45-6b2f-475b-b4ce-60fc765ec198)
+![Featured-image-–-920x415_What-is-the-Role-of-Front-End-Developer](https://github.com/snadi043/MYPROFILE/assets/60456049/3b94ef53-a440-44f1-aa2b-75bd887baa6d)
 
 # Hello Y'all! 👋
 
