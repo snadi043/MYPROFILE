@@ -44,6 +44,8 @@ Designing Tools:
 Version Control:
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
 
 Databases:
 
